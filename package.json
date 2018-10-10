@@ -1,0 +1,23 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/AlenLee-geek/node_pro.git"
+  },
+  "author": "alenLee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlenLee-geek/node_pro/issues"
+  },
+  "homepage": "https://github.com/AlenLee-geek/node_pro#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "npm": "^6.4.1"
+  }
+}
